@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+a=45
+b=64
+print(a+b)
